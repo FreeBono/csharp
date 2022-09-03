@@ -1,0 +1,13 @@
+C:\Users\ehdgu\Desktop\repositories\csharp\문자열 사용법\bin\Debug\netcoreapp3.1\문자열 사용법.exe
+C:\Users\ehdgu\Desktop\repositories\csharp\문자열 사용법\bin\Debug\netcoreapp3.1\문자열 사용법.deps.json
+C:\Users\ehdgu\Desktop\repositories\csharp\문자열 사용법\bin\Debug\netcoreapp3.1\문자열 사용법.runtimeconfig.json
+C:\Users\ehdgu\Desktop\repositories\csharp\문자열 사용법\bin\Debug\netcoreapp3.1\문자열 사용법.runtimeconfig.dev.json
+C:\Users\ehdgu\Desktop\repositories\csharp\문자열 사용법\bin\Debug\netcoreapp3.1\문자열 사용법.dll
+C:\Users\ehdgu\Desktop\repositories\csharp\문자열 사용법\bin\Debug\netcoreapp3.1\문자열 사용법.pdb
+C:\Users\ehdgu\Desktop\repositories\csharp\문자열 사용법\obj\Debug\netcoreapp3.1\문자열 사용법.csprojAssemblyReference.cache
+C:\Users\ehdgu\Desktop\repositories\csharp\문자열 사용법\obj\Debug\netcoreapp3.1\문자열 사용법.AssemblyInfoInputs.cache
+C:\Users\ehdgu\Desktop\repositories\csharp\문자열 사용법\obj\Debug\netcoreapp3.1\문자열 사용법.AssemblyInfo.cs
+C:\Users\ehdgu\Desktop\repositories\csharp\문자열 사용법\obj\Debug\netcoreapp3.1\문자열 사용법.csproj.CoreCompileInputs.cache
+C:\Users\ehdgu\Desktop\repositories\csharp\문자열 사용법\obj\Debug\netcoreapp3.1\문자열 사용법.dll
+C:\Users\ehdgu\Desktop\repositories\csharp\문자열 사용법\obj\Debug\netcoreapp3.1\문자열 사용법.pdb
+C:\Users\ehdgu\Desktop\repositories\csharp\문자열 사용법\obj\Debug\netcoreapp3.1\문자열 사용법.genruntimeconfig.cache
