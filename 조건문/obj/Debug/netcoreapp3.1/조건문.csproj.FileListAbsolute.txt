@@ -1,0 +1,13 @@
+C:\Users\ehdgu\Desktop\repositories\csharp\조건문\bin\Debug\netcoreapp3.1\조건문.exe
+C:\Users\ehdgu\Desktop\repositories\csharp\조건문\bin\Debug\netcoreapp3.1\조건문.deps.json
+C:\Users\ehdgu\Desktop\repositories\csharp\조건문\bin\Debug\netcoreapp3.1\조건문.runtimeconfig.json
+C:\Users\ehdgu\Desktop\repositories\csharp\조건문\bin\Debug\netcoreapp3.1\조건문.runtimeconfig.dev.json
+C:\Users\ehdgu\Desktop\repositories\csharp\조건문\bin\Debug\netcoreapp3.1\조건문.dll
+C:\Users\ehdgu\Desktop\repositories\csharp\조건문\bin\Debug\netcoreapp3.1\조건문.pdb
+C:\Users\ehdgu\Desktop\repositories\csharp\조건문\obj\Debug\netcoreapp3.1\조건문.csprojAssemblyReference.cache
+C:\Users\ehdgu\Desktop\repositories\csharp\조건문\obj\Debug\netcoreapp3.1\조건문.AssemblyInfoInputs.cache
+C:\Users\ehdgu\Desktop\repositories\csharp\조건문\obj\Debug\netcoreapp3.1\조건문.AssemblyInfo.cs
+C:\Users\ehdgu\Desktop\repositories\csharp\조건문\obj\Debug\netcoreapp3.1\조건문.csproj.CoreCompileInputs.cache
+C:\Users\ehdgu\Desktop\repositories\csharp\조건문\obj\Debug\netcoreapp3.1\조건문.dll
+C:\Users\ehdgu\Desktop\repositories\csharp\조건문\obj\Debug\netcoreapp3.1\조건문.pdb
+C:\Users\ehdgu\Desktop\repositories\csharp\조건문\obj\Debug\netcoreapp3.1\조건문.genruntimeconfig.cache

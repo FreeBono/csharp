@@ -1,0 +1,13 @@
+C:\Users\ehdgu\Desktop\repositories\csharp\반복문\obj\Debug\netcoreapp3.1\반복문.csprojAssemblyReference.cache
+C:\Users\ehdgu\Desktop\repositories\csharp\반복문\obj\Debug\netcoreapp3.1\반복문.AssemblyInfoInputs.cache
+C:\Users\ehdgu\Desktop\repositories\csharp\반복문\obj\Debug\netcoreapp3.1\반복문.AssemblyInfo.cs
+C:\Users\ehdgu\Desktop\repositories\csharp\반복문\obj\Debug\netcoreapp3.1\반복문.csproj.CoreCompileInputs.cache
+C:\Users\ehdgu\Desktop\repositories\csharp\반복문\bin\Debug\netcoreapp3.1\반복문.exe
+C:\Users\ehdgu\Desktop\repositories\csharp\반복문\bin\Debug\netcoreapp3.1\반복문.deps.json
+C:\Users\ehdgu\Desktop\repositories\csharp\반복문\bin\Debug\netcoreapp3.1\반복문.runtimeconfig.json
+C:\Users\ehdgu\Desktop\repositories\csharp\반복문\bin\Debug\netcoreapp3.1\반복문.runtimeconfig.dev.json
+C:\Users\ehdgu\Desktop\repositories\csharp\반복문\bin\Debug\netcoreapp3.1\반복문.dll
+C:\Users\ehdgu\Desktop\repositories\csharp\반복문\bin\Debug\netcoreapp3.1\반복문.pdb
+C:\Users\ehdgu\Desktop\repositories\csharp\반복문\obj\Debug\netcoreapp3.1\반복문.dll
+C:\Users\ehdgu\Desktop\repositories\csharp\반복문\obj\Debug\netcoreapp3.1\반복문.pdb
+C:\Users\ehdgu\Desktop\repositories\csharp\반복문\obj\Debug\netcoreapp3.1\반복문.genruntimeconfig.cache
