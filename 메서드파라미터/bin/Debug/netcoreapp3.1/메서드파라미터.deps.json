@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "메서드파라미터/1.0.0": {
+        "runtime": {
+          "메서드파라미터.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "메서드파라미터/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

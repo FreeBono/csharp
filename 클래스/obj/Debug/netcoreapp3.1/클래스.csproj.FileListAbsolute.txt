@@ -1,0 +1,4 @@
+C:\Users\ehdgu\Desktop\repositories\csharp\클래스\obj\Debug\netcoreapp3.1\클래스.csprojAssemblyReference.cache
+C:\Users\ehdgu\Desktop\repositories\csharp\클래스\obj\Debug\netcoreapp3.1\클래스.AssemblyInfoInputs.cache
+C:\Users\ehdgu\Desktop\repositories\csharp\클래스\obj\Debug\netcoreapp3.1\클래스.AssemblyInfo.cs
+C:\Users\ehdgu\Desktop\repositories\csharp\클래스\obj\Debug\netcoreapp3.1\클래스.csproj.CoreCompileInputs.cache
